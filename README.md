@@ -19,9 +19,9 @@
 
 ##Admin  
 #Admin Options  
-![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/bdf6f970-e4cc-4e71-8d3e-a6d6956322c4)
-#Adding Book
-![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/9127210d-e46f-4eb3-bce1-bc135163a9a4)
+![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/bdf6f970-e4cc-4e71-8d3e-a6d6956322c4)  
+#Adding Book  
+![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/9127210d-e46f-4eb3-bce1-bc135163a9a4)  
 #Viewing Details  
 ![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/074c7b9c-6e14-4a96-96ac-e3b50967a200)  
 ![image](https://github.com/HunterCoders/Library-Management-System-using-JSP-Servlet-HTML/assets/157727212/a03f8861-9551-4378-9f9c-04a90dd009a0)  
